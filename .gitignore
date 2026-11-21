@@ -1,0 +1,7 @@
+.agents/
+.codex/
+.impeccable/
+.env
+.env.*
+node_modules/
+*.zip
